@@ -1,4 +1,4 @@
-# PorfolioProjects
+# PortfolioProjects
 
 The following Portfolio Project looks at Covid-19 Data from [https://ourworldindata.org/](https://ourworldindata.org/covid-deaths).
 
